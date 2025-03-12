@@ -26,7 +26,7 @@ const Portfolio = () => {
             {/* Replace with your photo */}
             <Image src="/images/photo.png" width={60} height={60} alt="Your Photo" className="w-full h-full object-cover" />
           </div>
-          <h2 className="text-3xl font-semibold">Hey there, It's Rahul here. I'm a Frontend Developer</h2>
+          <h2 className="text-3xl font-semibold">Hey there, It&apos;s Rahul here. I&apos;m a Frontend Developer</h2>
           <p className="text-gray-300 mt-2 max-w-lg mx-auto">
            and am passionate about building beautiful & functional web experiences using Next.js and Tailwind CSS.
           </p>
