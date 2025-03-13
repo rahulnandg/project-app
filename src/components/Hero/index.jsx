@@ -72,12 +72,12 @@ const Hero = () => {
                 </div>
             </section>
 
-            <section id="resume" className="mt-12 text-center cursor-pointer">
+            <section id="resume" className="mt-12 text-center">
                 <h2 className="text-3xl font-semibold mb-4">Resume</h2>
-                <div className="max-w-3xl mx-auto bg-white bg-opacity-10 p-4 rounded-lg shadow-lg backdrop-blur-md hover:scale-105 transition-transform duration-300 cursor-pointer">
-                    <a href="/resume.pdf" target="_blank" rel="noopener noreferrer">
-                        <Image src="/images/resume.png" width={600} height={500} alt="Resume" className="w-full h-auto rounded-lg cursor-pointer" />
-                    </a>
+                <div className="max-w-3xl mx-auto bg-white bg-opacity-10 p-4 rounded-lg shadow-lg backdrop-blur-md ">
+                    <div>
+                        <Image src="/images/resume.png" width={600} height={500} alt="Resume" className="w-full h-auto rounded-lg " />
+                    </div>
                 </div>
             </section>
 
