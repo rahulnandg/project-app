@@ -16,6 +16,7 @@ const Hero = () => {
         { name: "Random password generator", img: "/images/pwd.png", github: "https://github.com/rahulnandg/password-app" },
         { name: "Random advice generator", img: "/images/advice2.png", github: "https://github.com/rahulnandg/advice-generater" },
         { name: "Sneakers ecommerce page", img: "/images/shoe.png", github: "https://github.com/rahulnandg/shoe-app2" },
+        { name: "Admin Dashboard", img: "/images/dashboard.png", github: "https://github.com/rahulnandg/dashboard-project" },
     ];
 
 
